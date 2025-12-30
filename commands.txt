@@ -10,6 +10,7 @@ git branch
 git branch branch-name
 dir 
 git checkout branch-name 
+git merge branch-name 
 
 #shortcuts 
 html structure : shift+1
