@@ -1,3 +1,4 @@
+#commands
 code .
 git init
 git status
@@ -5,6 +6,10 @@ git -m commit "adding pro1 and pro2"
 git config --global user.name "siddhi"
 git config --global user.email "siddhikadlag12@gmail.com"
 git commit -m "adding pro1 and pro2"
+git branch
+git branch branch-name
+dir 
+git checkout branch-name 
 
 #shortcuts 
 html structure : shift+1
@@ -13,3 +18,4 @@ wrap para: alt+p
 
 #notes 
 do not publish the repository pvt it will cost something 
+for merging you should be in master branch 
