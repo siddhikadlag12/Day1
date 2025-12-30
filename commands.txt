@@ -10,3 +10,6 @@ git commit -m "adding pro1 and pro2"
 html structure : shift+1
 dumy paragraph: lorem
 wrap para: alt+p
+
+#notes 
+do not publish the repository pvt it will cost something 
