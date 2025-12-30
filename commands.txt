@@ -1,0 +1,7 @@
+code .
+git init
+git status
+git -m commit "adding pro1 and pro2"
+git config --global user.name "siddhi"
+git config --global user.email "siddhikadlag12@gmail.com"
+git commit -m "adding pro1 and pro2"
